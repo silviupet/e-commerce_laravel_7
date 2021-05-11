@@ -6,6 +6,9 @@
         <a class="item">About</a>
         <a class="item">Blog</a>
 
+
+
+
         <div class="right menu">
             <div class="item">
                 <div class="ui transparent icon input">
@@ -24,10 +27,13 @@
                         </div>
                     @endif
                 </a>
+
             </div>
         </div>
     </div>
 </div>
+
+
 
 <!-- Sidebar Menu -->
 <div class="ui vertical inverted sidebar menu">
@@ -38,3 +44,5 @@
     <a class="item">Login</a>
     <a class="item">Signup</a>
 </div>
+
+
